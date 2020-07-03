@@ -17,4 +17,4 @@
 
 
 ### 1SPE_histogramme
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OlivierDalmasso/formation2020/master?filepath=1SPE_histogramme_pres.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OlivierDalmasso/formation2020/master?filepath=1SPE_histogramme.ipynb)
